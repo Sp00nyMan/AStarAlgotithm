@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c610a0f3-b051-4fcc-aa59-cbd91fca74ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XQacGUhxYhHyZRBPlBHOsPKWvj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="AStarAlgotithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c610a0f3-b051-4fcc-aa59-cbd91fca74ca" name="Default Changelist" comment="" />
+      <created>1580980849221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580980849221</updated>
+      <workItem from="1580980851176" duration="7862000" />
+      <workItem from="1580995071171" duration="2696000" />
+      <workItem from="1581006515308" duration="5003000" />
+      <workItem from="1581053233938" duration="13149000" />
+      <workItem from="1581074816599" duration="1840000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1581011429172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581011429172</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Final">
+      <created>1581076664783</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581076664783</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="95" key="#Project_Structure" timestamp="1580980898984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="95" key="#Project_Structure/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580980898984" />
+    <state x="721" y="161" key="#com.intellij.ide.util.MemberChooser" timestamp="1581010329610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="161" key="#com.intellij.ide.util.MemberChooser/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581010329610" />
+    <state x="339" y="0" key="CommitChangelistDialog2" timestamp="1581076663412">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="508" y="45" key="CommitChangelistDialog2/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011427361" />
+    <state x="339" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1581076663412" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1581076669309">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1865" height="333" key="GridCell.Tab.0.bottom/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011524878" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581076669309" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1581076669309">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1865" height="333" key="GridCell.Tab.0.center/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011524878" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581076669309" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1581076669309">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1865" height="333" key="GridCell.Tab.0.left/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011524878" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581076669309" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1581076669309">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1865" height="333" key="GridCell.Tab.0.right/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011524878" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581076669309" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1581076669309">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1865" height="333" key="GridCell.Tab.1.bottom/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011524878" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581076669309" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1581076669309">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1865" height="333" key="GridCell.Tab.1.center/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011524878" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1581076669309" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1581076669309">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1865" height="333" key="GridCell.Tab.1.left/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011524878" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1581076669309" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1581076669309">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1865" height="333" key="GridCell.Tab.1.right/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011524878" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1581076669309" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1581056863711">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581056863711" />
+    <state x="371" y="121" key="extract.method.dialog" timestamp="1581063959410">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="121" key="extract.method.dialog/0.0.1280.680@0.0.1280.680" timestamp="1581063959410" />
+    <state x="532" y="237" key="run.anything.popup" timestamp="1580981010800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="532" y="237" key="run.anything.popup/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580981010800" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1581075644465">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1581075644465" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/Pathfinder.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="vertices[0]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
