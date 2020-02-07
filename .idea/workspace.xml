@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c610a0f3-b051-4fcc-aa59-cbd91fca74ca" name="Default Changelist" comment="" />
+    <list default="true" id="c610a0f3-b051-4fcc-aa59-cbd91fca74ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XQacGUhxYhHyZRBPlBHOsPKWvj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -55,59 +63,86 @@
       <option name="presentableId" value="Default" />
       <updated>1580980849221</updated>
       <workItem from="1580980851176" duration="7862000" />
+      <workItem from="1580995071171" duration="2696000" />
+      <workItem from="1581006515308" duration="5003000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1581011429172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581011429172</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="452" y="95" key="#Project_Structure" timestamp="1580980898984">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="452" y="95" key="#Project_Structure/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580980898984" />
-    <state x="721" y="161" key="#com.intellij.ide.util.MemberChooser" timestamp="1580985034373">
+    <state x="721" y="161" key="#com.intellij.ide.util.MemberChooser" timestamp="1581010329610">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="721" y="161" key="#com.intellij.ide.util.MemberChooser/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580985034373" />
-    <state width="1865" height="333" key="GridCell.Tab.0.bottom" timestamp="1580988765479">
+    <state x="721" y="161" key="#com.intellij.ide.util.MemberChooser/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581010329610" />
+    <state x="508" y="45" key="CommitChangelistDialog2" timestamp="1581011427361">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="333" key="GridCell.Tab.0.bottom/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580988765479" />
-    <state width="1865" height="333" key="GridCell.Tab.0.center" timestamp="1580988765479">
+    <state x="508" y="45" key="CommitChangelistDialog2/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011427361" />
+    <state width="1865" height="333" key="GridCell.Tab.0.bottom" timestamp="1581011524878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="333" key="GridCell.Tab.0.center/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580988765479" />
-    <state width="1865" height="333" key="GridCell.Tab.0.left" timestamp="1580988765479">
+    <state width="1865" height="333" key="GridCell.Tab.0.bottom/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011524878" />
+    <state width="1865" height="333" key="GridCell.Tab.0.center" timestamp="1581011524878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="333" key="GridCell.Tab.0.left/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580988765479" />
-    <state width="1865" height="333" key="GridCell.Tab.0.right" timestamp="1580988765479">
+    <state width="1865" height="333" key="GridCell.Tab.0.center/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011524878" />
+    <state width="1865" height="333" key="GridCell.Tab.0.left" timestamp="1581011524878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="333" key="GridCell.Tab.0.right/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580988765479" />
-    <state width="1865" height="333" key="GridCell.Tab.1.bottom" timestamp="1580988765480">
+    <state width="1865" height="333" key="GridCell.Tab.0.left/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011524878" />
+    <state width="1865" height="333" key="GridCell.Tab.0.right" timestamp="1581011524878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="333" key="GridCell.Tab.1.bottom/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580988765480" />
-    <state width="1865" height="333" key="GridCell.Tab.1.center" timestamp="1580988765480">
+    <state width="1865" height="333" key="GridCell.Tab.0.right/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011524878" />
+    <state width="1865" height="333" key="GridCell.Tab.1.bottom" timestamp="1581011524878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="333" key="GridCell.Tab.1.center/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580988765480" />
-    <state width="1865" height="333" key="GridCell.Tab.1.left" timestamp="1580988765480">
+    <state width="1865" height="333" key="GridCell.Tab.1.bottom/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011524878" />
+    <state width="1865" height="333" key="GridCell.Tab.1.center" timestamp="1581011524878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="333" key="GridCell.Tab.1.left/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580988765480" />
-    <state width="1865" height="333" key="GridCell.Tab.1.right" timestamp="1580988765480">
+    <state width="1865" height="333" key="GridCell.Tab.1.center/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011524878" />
+    <state width="1865" height="333" key="GridCell.Tab.1.left" timestamp="1581011524878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="333" key="GridCell.Tab.1.right/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580988765480" />
+    <state width="1865" height="333" key="GridCell.Tab.1.left/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011524878" />
+    <state width="1865" height="333" key="GridCell.Tab.1.right" timestamp="1581011524878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="333" key="GridCell.Tab.1.right/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011524878" />
     <state x="532" y="237" key="run.anything.popup" timestamp="1580981010800">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="532" y="237" key="run.anything.popup/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580981010800" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Graphics/Grid.java</url>
+          <line>153</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="vertices[0]" />
