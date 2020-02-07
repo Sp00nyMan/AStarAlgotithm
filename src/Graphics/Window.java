@@ -7,16 +7,12 @@ import java.awt.event.KeyListener;
 public class Window extends JFrame implements KeyListener
 {
 	Grid field;
-	public static boolean ctrlPressed = false;
 
-	public Window(int startX, int startY, int finishX, int finishY, int obstacleChance)
-	{
+	public Window(int obstacleChance) {
 		setTitle("A*");
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
-		setBounds(40, 40, (Grid.width + 2) * Grid.squareSize + 16, (Grid.height + 2) * Grid.squareSize + 39);
+		setBounds(500, 40, (Grid.width + 2) * Grid.squareSize + 15, (Grid.height + 2) * Grid.squareSize + 38);
 		field = new Grid(obstacleChance);
-		field.setStart(startX, startY);
-		field.setFinish(finishX, finishY);
 
 		add(field);
 		addMouseListener(field);
@@ -25,24 +21,14 @@ public class Window extends JFrame implements KeyListener
 	}
 
 	@Override
-	public void keyPressed(KeyEvent e)
-	{
-
-		if(!ctrlPressed && e.getKeyCode() == KeyEvent.VK_CONTROL)
-			{
-				ctrlPressed = true;
-				System.out.println("CTRL PRESSED");
-			}
-	}
-	@Override
-	public void keyReleased(KeyEvent e)
-	{
-		if(e.getKeyCode() == KeyEvent.VK_CONTROL)
+	public void keyPressed(KeyEvent e) {
+		if (e.getKeyCode() == KeyEvent.VK_SPACE)
 		{
-			ctrlPressed = false;
-			System.out.println("CTRL RELEASED");
+			field.getShortestPath();
+			repaint();
 		}
 	}
 
-	public void keyTyped(KeyEvent e){}
+	public void keyReleased(KeyEvent e) {}
+	public void keyTyped(KeyEvent e) {}
 }
