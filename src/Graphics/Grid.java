@@ -13,8 +13,8 @@ import java.util.Random;
 public class Grid extends JPanel implements MouseListener
 {
 	public static final int squareSize = 20;
-	public static int width = 15;
-	public static int height = 15;
+	public static int width = 30;
+	public static int height = 30;
 	public static boolean onlyShortest = false;
 	public static boolean allowDiagonals = false;
 
@@ -113,7 +113,7 @@ public class Grid extends JPanel implements MouseListener
 				}
 				else
 				{
-					if (!onlyShortest && vertex.isVisited)
+					if (/*!onlyShortest && */vertex.isVisited)
 					{
 						g.drawRect(vertex.getX(), vertex.getY(), squareSize, squareSize);
 						g.setColor(Color.BLUE);
@@ -199,7 +199,7 @@ public class Grid extends JPanel implements MouseListener
 			}
 			start = element;
 			start.isObstacle = false;
-			start.setDistanceFromStart(0);
+			start.setDistanceFromStart(-squareSize / 2.0);
 		}
 	}
 	public void setFinish(int x, int y) {

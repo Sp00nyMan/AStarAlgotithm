@@ -5,7 +5,7 @@ import java.util.Stack;
 
 public class Pathfinder
 {
-	public synchronized static void getShortestPath(Vertex start, Vertex finish, boolean onlyShortest) {
+	public static void getShortestPath(Vertex start, Vertex finish, boolean onlyShortest) {
 		Stack<Vertex> toTest = new Stack<>();
 		toTest.push(start);
 

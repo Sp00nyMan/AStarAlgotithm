@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c610a0f3-b051-4fcc-aa59-cbd91fca74ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithm/Pathfinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/Pathfinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphics/Grid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphics/Grid.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +69,7 @@
       <workItem from="1581006515308" duration="5003000" />
       <workItem from="1581053233938" duration="13149000" />
       <workItem from="1581074816599" duration="1840000" />
+      <workItem from="1581245688043" duration="1176000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1581011429172</created>
@@ -108,25 +110,25 @@
     </state>
     <state x="508" y="45" key="CommitChangelistDialog2/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011427361" />
     <state x="339" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1581076663412" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1581076669309">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1865" height="268" key="GridCell.Tab.0.bottom" timestamp="1581246864691">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="333" key="GridCell.Tab.0.bottom/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011524878" />
+    <state width="1865" height="268" key="GridCell.Tab.0.bottom/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581246864691" />
     <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581076669309" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1581076669309">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1865" height="268" key="GridCell.Tab.0.center" timestamp="1581246864691">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="333" key="GridCell.Tab.0.center/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011524878" />
+    <state width="1865" height="268" key="GridCell.Tab.0.center/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581246864691" />
     <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581076669309" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1581076669309">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1865" height="268" key="GridCell.Tab.0.left" timestamp="1581246864690">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="333" key="GridCell.Tab.0.left/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011524878" />
+    <state width="1865" height="268" key="GridCell.Tab.0.left/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581246864690" />
     <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581076669309" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1581076669309">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1865" height="268" key="GridCell.Tab.0.right" timestamp="1581246864691">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="333" key="GridCell.Tab.0.right/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581011524878" />
+    <state width="1865" height="268" key="GridCell.Tab.0.right/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581246864691" />
     <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581076669309" />
     <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1581076669309">
       <screen x="0" y="0" width="1280" height="680" />
@@ -166,15 +168,6 @@
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1581075644465" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Algorithm/Pathfinder.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="vertices[0]" />
